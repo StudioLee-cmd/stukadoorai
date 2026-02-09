@@ -42,7 +42,7 @@ const PurchaseOptionsModal: React.FC<PurchaseOptionsModalProps> = ({ isOpen, onC
     const bookingUrl = "https://calendly.com/tim-studiolee";
 
     return (
-        <div className="fixed inset-0 z-50 overflow-y-auto">
+        <div className="fixed inset-0 z-[60] overflow-y-auto pointer-events-auto">
             {/* Backdrop */}
             <div
                 className="fixed inset-0 bg-black bg-opacity-50 transition-opacity"
