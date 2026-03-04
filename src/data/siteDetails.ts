@@ -1,12 +1,12 @@
 export const siteDetails = {
-    siteName: 'Dakdekker AI',
-    siteUrl: 'https://dakdekkerai.nl/',
+    siteName: 'StukadoorAI',
+    siteUrl: 'https://stukadoorai.nl/',
     metadata: {
-        title: 'Dakdekker AI - De slimme assistent voor jouw dakdekkersbedrijf',
-        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. Dakdekker AI regelt je agenda, telefoon en administratie volledig automatisch.',
+        title: 'StukadoorAI - De slimme assistent voor jouw stukadoorsbedrijf',
+        description: 'Bespaar zeeën van tijd en zeg vaarwel tegen saai kantoorwerk. StukadoorAI regelt je agenda, telefoon en administratie volledig automatisch.',
     },
     language: 'nl-nl',
     locale: 'nl-NL',
-    siteLogo: '/images/logo-transparent.png', // Transparent logo for dark mode support
+    siteLogo: '/images/logo.png', // Updated to new provided logo
     googleAnalyticsId: '', // e.g. G-XXXXXXX,
 }
