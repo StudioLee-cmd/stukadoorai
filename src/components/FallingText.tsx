@@ -65,38 +65,38 @@ const FallingText = () => {
         });
 
         const allWords = [
-            // HERO USPs (DAKDEKKER EDITION)
-            "Meer Winst per Dak 🏠",
+            // HERO USPs (STUKADOOR EDITION)
+            "Meer Winst per Muur 🏗️",
             "Alles-in-1 Systeem 🛠️",
-            "Nooit Meer Gemiste Oproepen 📞",
+            "Nooit Meer Gemiste Aanvragen 📅",
             "Je Werkbonnen op Orde 📋",
             "Ondernemen Zonder Zorgen 🚀",
-            "Je Kantoor in je Broekzak 📱",
+            "Je Bedrijf in je Broekzak 📱",
             "Jouw AI Receptioniste 🤖",
-            "Je Cijfers Waterdicht 💧",
+            "Stop Omzetlekkages 💸",
             "Geen Gedoe Met Facturen 🧾",
             "Alle Tools in 1 App 📱",
             "Meer Vrijheid, Minder Stress 🧘",
-            "100% Jouw Eigen Stijl 🎨",
+            "100% Jouw Eigen Afwerking 🎨",
             "Klanten & AI in 1 Systeem 🤝",
-            "Volgeboekte Agenda 📈",
+            "Volgeboekte Planning 📈",
             "Offertes die scoren 📝",
             "Slapende klanten wakker schudden ⏰",
 
-            // DAKDEKKER PUNS & FUN
-            "Minder kantoor, meer dak op 🏠",
-            "Tijd voor koffie & je klus ☕",
+            // STUKADOOR PUNS & FUN
+            "Minder pleisteren, meer verdienen 🏗️",
+            "Tijd voor koffie & je spatel ☕",
             "Laat de telefoon maar rinkelen (AI pakt op) 📞",
-            "Laat de AI je planning doen 🤖",
-            "Sleutelen, niet telefoneren 🔨",
-            "Geen lekkage in je planning 📅",
-            "Geknipt voor Jouw Business ✂️",
-            "Jij de vakman, AI de rest 👷‍♂️",
-            "Van dakdekker naar top-ondernemer 🚀",
-            "Handen in het haar? Nergens voor nodig! 👐",
-            "Meer omzet in minder tijd ⏳",
-            "Altijd scherp, net als je tools 🔪",
-            "Strakke planning, blije klanten 📅",
+            "Laat de AI je agenda vullen 🤖",
+            "Stukadoren, niet telefoneren 🔨",
+            "Geen scheuren in je planning 📅",
+            "Glad als een net gestucte muur 🤌",
+            "Jij het pleisterwerk, AI de rest 🤖",
+            "Van stukadoor naar top-ondernemer 🚀",
+            "Gips in je gezicht? AI helpt je verder 💪",
+            "Meer klussen in minder tijd ⏳",
+            "Altijd vlak, net als je muren 📐",
+            "Strakke afwerking, strakke planning 🏗️",
             "Eindelijk rustig lunchen 🥪"
         ];
 
