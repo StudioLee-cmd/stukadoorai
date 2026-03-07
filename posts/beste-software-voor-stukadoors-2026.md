@@ -63,11 +63,11 @@ De meeste stukadoorsbedrijven zoeken hulp bij:
 
 ## StukadoorAI — AI-marketing en klantwerving
 
-[StukadoorAI](/) pakt het anders aan: in plaats van leads kopen, zorgt het ervoor dat klanten jóú vinden. Via AI-gestuurde marketing word je beter vindbaar op Google, verzamel je automatisch reviews via WhatsApp en vangt een chatbot leads op — allemaal op autopilot.
+[StukadoorAI](/) is een compleet AI-systeem: planning, facturatie, automatische reviews via WhatsApp, AI-chatbot en optimalisatie voor Google — alles op autopilot. In plaats van leads kopen zorgt het systeem dat klanten jóú vinden.
 
-**Sterkste punt:** Volledige marketing op autopilot. [Online vindbaarheid](/blog/online-vindbaarheid-voor-stukadoors-zo-kom-je-bovenaan-in-google), reviews en leadgeneratie zonder dat je er zelf tijd in stopt.
+**Sterkste punt:** Compleet systeem met AI: planning, facturatie, [online vindbaarheid](/blog/online-vindbaarheid-voor-stukadoors-zo-kom-je-bovenaan-in-google), reviews en leadgeneratie — alles op autopilot.
 
-**Nadeel:** Geen facturatie — StukadoorAI is een aanvulling op je boekhoudtool, niet een vervanging.
+**Nadeel:** De facturatie is minder diepgaand dan een dedicated boekhoudprogramma als Moneybird — voor complexe BTW-administratie kun je beide combineren.
 
 **Geschikt voor:** Stukadoors die onafhankelijk willen groeien zonder afhankelijk te zijn van klussenplatformen.
 
@@ -76,7 +76,7 @@ De meeste stukadoorsbedrijven zoeken hulp bij:
 | | Werkspot | Zoofy | Klusio | Moneybird | StukadoorAI |
 |---|---|---|---|---|---|
 | **Nieuwe opdrachten** | ✓ (platform) | ✓ (direct) | ✓ (chatbot) | ✗ | ✓ (SEO + AI) |
-| **Facturatie** | ✗ | ✗ | ✗ | ✓ | ✗ |
+| **Facturatie** | ✗ | ✗ | ✗ | ✓ | Basis |
 | **Review-automatisering** | Beperkt | Beperkt | ✗ | ✗ | ✓ (WhatsApp) |
 | **AI-marketing** | ✗ | ✗ | Deels | ✗ | ✓ |
 | **Exclusieve leads** | Nee | Ja | Ja | n.v.t. | Ja |
@@ -84,6 +84,6 @@ De meeste stukadoorsbedrijven zoeken hulp bij:
 
 ## Conclusie: combineer slim
 
-De beste aanpak is combineren: Moneybird voor je administratie, Werkspot of Zoofy voor directe opdrachten, en [StukadoorAI](/) voor langetermijngroei via betere vindbaarheid en automatische reviews.
+De beste aanpak: [StukadoorAI](/) voor je complete bedrijfsvoering — planning, facturatie, vindbaarheid en reviews. Combineer eventueel met Moneybird voor uitgebreide BTW-administratie, en Werkspot of Zoofy voor directe opdrachten.
 
 Benieuwd wat StukadoorAI voor jouw bedrijf kan betekenen? [Neem contact op](/contact).
