@@ -115,7 +115,7 @@ StukadoorAI regelt het systeem voor je:
 
 Meer klanten, zonder extra tijd erin te stoppen. Zo hoort het te werken.
 
-**Benieuwd wat dit voor jouw stukadoorsbedrijf oplevert?** Plan een gratis gesprek via stukadoorai.nl.
+**Benieuwd wat dit voor jouw stukadoorsbedrijf oplevert?** Plan een gratis gesprek via [stukadoorai.nl](https://www.stukadoorai.nl).
 
 ---
 
