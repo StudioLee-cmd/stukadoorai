@@ -52,4 +52,4 @@ Start klein, meet na 60 dagen en schaal dan op.
 
 Stukadoors die AI inzetten, groeien sneller — niet door harder te werken, maar slimmer. Minder administratie, meer omzet, betere reputatie.
 
-Ontdek hoe StukadoorAI jouw bedrijf versterkt op [stukadoorai.nl](https://stukadoorai.nl).
+Ontdek hoe StukadoorAI jouw bedrijf versterkt op [stukadoorai.nl](https://www.stukadoorai.nl).
