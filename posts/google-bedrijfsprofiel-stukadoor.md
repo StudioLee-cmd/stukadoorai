@@ -11,7 +11,7 @@ tags: ["Google", "Lokaal", "Vindbaarheid"]
 
 Google Bedrijfsprofiel (voorheen Google Mijn Bedrijf) is je gratis vermelding op Google Maps en in lokale zoekresultaten. Als iemand zoekt op "stukadoor in de buurt", bepaalt je Google Bedrijfsprofiel of je in dat rijtje verschijnt — of niet.
 
-Voor stukadoors is dit cruciaal. Je klanten zoeken lokaal: ze willen een stukadoor uit hun eigen regio. Met een geoptimaliseerd profiel verschijn je boven de reguliere zoekresultaten, compleet met reviews, foto's en contactgegevens. Wil je ook je website-vindbaarheid verbeteren? Lees dan eerst hoe je als stukadoor [bovenaan komt in Google](/blog/online-vindbaarheid-stukadoors).
+Voor stukadoors is dit cruciaal. Je klanten zoeken lokaal: ze willen een stukadoor uit hun eigen regio. Met een geoptimaliseerd profiel verschijn je boven de reguliere zoekresultaten, compleet met reviews, foto's en contactgegevens. Wil je ook je website-vindbaarheid verbeteren? Lees dan eerst hoe je als stukadoor [bovenaan komt in Google](/blog/ai-telefoniste-voor-stukadoors).
 
 ## Je profiel optimaliseren als stukadoor
 
@@ -54,7 +54,7 @@ Google bepaalt je lokale ranking op drie factoren:
 
 Op afstand heb je beperkt invloed. Op relevantie en bekendheid des te meer. Zorg voor een compleet profiel, verzamel actief reviews, post regelmatig updates en foto's, en reageer snel op berichten. Dit signaleert aan Google dat je een actief, betrouwbaar bedrijf bent.
 
-Versterk je online aanwezigheid verder met [social media](/blog/social-media-stukadoors-zichtbaar) en [mond-tot-mondreclame](/blog/mond-tot-mondreclame-stukadoor).
+Versterk je online aanwezigheid verder met [social media](/blog/social-media-stukadoors-zichtbaar) en [mond-tot-mondreclame](/blog/mond-tot-mondreclame-stukadoor-versterken).
 
 ## Conclusie
 

@@ -11,7 +11,7 @@ tags: ["seizoenswerk", "stukadoor", "planning"]
 
 ## Waarom seizoenen je agenda bepalen
 
-Stukadoorswerk heeft een duidelijk seizoenspatroon. Het voorjaar en de vroege herfst zijn druk — renovaties, verbouwingen en [nieuwbouwprojecten](/blog/nieuwbouwmarkt-stukadoor) draaien op volle toeren. De winter is traditioneel rustiger: buitenwerk ligt stil en particulieren stellen verbouwingen uit.
+Stukadoorswerk heeft een duidelijk seizoenspatroon. Het voorjaar en de vroege herfst zijn druk — renovaties, verbouwingen en [nieuwbouwprojecten](/blog/nieuwbouwmarkt-stukadoor-projectontwikkelaars) draaien op volle toeren. De winter is traditioneel rustiger: buitenwerk ligt stil en particulieren stellen verbouwingen uit.
 
 De stukadoors die het beste verdienen, plannen hun marketing rond die patronen. Ze promoten het juiste aanbod op het juiste moment, vullen rustige periodes met binnenwerk en beginnen vroeg met werven voor het drukke seizoen.
 
@@ -31,7 +31,7 @@ De zomer is ideaal voor buitenstucwerk — het droogt sneller en de weersomstand
 
 **Buitenstucwerk promoten in mei**. "De zomer is het perfecte moment voor buitenstucwerk. Plan nu in voor de beste resultaten." Dit trekt klanten die hun gevel willen laten doen.
 
-**[Verduurzaming](/blog/verduurzaming-stukadoor-isolatiewerk) als seizoensthema**. Isolerend stucwerk is populair in de zomer en herfst — klanten willen hun huis winterklaar maken. Positioneer jezelf als specialist in isolatiewerk.
+**[Verduurzaming](/blog/verduurzaming-stukadoor-isolatie) als seizoensthema**. Isolerend stucwerk is populair in de zomer en herfst — klanten willen hun huis winterklaar maken. Positioneer jezelf als specialist in isolatiewerk.
 
 **Herfstdrukte plannen**. September en oktober zijn vaak verrassend druk. Particulieren willen voor de winter klaar zijn. Begin in augustus met communiceren dat je planning vol loopt.
 
@@ -43,7 +43,7 @@ December tot februari is traditioneel rustig. Maar dat hoeft niet:
 
 **Kleine klussen werven**. Scheuren repareren, plafonds witten, een accent wand — kleine klussen die je agenda vullen. Bied een winterkorting aan om klanten over de streep te trekken.
 
-**Voorbereiden op het voorjaar**. Gebruik de rustige maanden om je [portfolio](/blog/sterk-portfolio-stukadoor) bij te werken, je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-stukadoor) te optimaliseren en je [website](/blog/stukadoor-website-aanvraagmachine) te verbeteren.
+**Voorbereiden op het voorjaar**. Gebruik de rustige maanden om je [portfolio](/blog/portfolio-stukadoor-voor-na-fotos) bij te werken, je [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-stukadoor) te optimaliseren en je [website](/blog/stukadoor-website-aanvraagmachine) te verbeteren.
 
 ## Je seizoenskalender opzetten
 

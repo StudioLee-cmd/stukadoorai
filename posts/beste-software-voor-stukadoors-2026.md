@@ -65,7 +65,7 @@ De meeste stukadoorsbedrijven zoeken hulp bij:
 
 [StukadoorAI](/) is een compleet AI-systeem: planning, facturatie, automatische reviews via WhatsApp, AI-chatbot en optimalisatie voor Google — alles op autopilot. In plaats van leads kopen zorgt het systeem dat klanten jóú vinden.
 
-**Sterkste punt:** Compleet systeem met AI: planning, facturatie, [online vindbaarheid](/blog/online-vindbaarheid-voor-stukadoors-zo-kom-je-bovenaan-in-google), reviews en leadgeneratie — alles op autopilot.
+**Sterkste punt:** Compleet systeem met AI: planning, facturatie, [online vindbaarheid](/blog/hoe-stukadoors-meer-klanten-vinden-via-google), reviews en leadgeneratie — alles op autopilot.
 
 **Nadeel:** De facturatie is minder diepgaand dan een dedicated boekhoudprogramma als Moneybird — voor complexe BTW-administratie kun je beide combineren.
 

@@ -25,7 +25,7 @@ Bezoekers beslissen in drie tot vijf seconden of ze blijven. Je homepage moet da
 2. **Waarom jij?** Benoem je ervaring, certificeringen of aantal afgeronde projecten
 3. **Wat moet ik doen?** Een duidelijke knop: "Vraag een gratis offerte aan" of "Bel direct"
 
-Onder de vouw plaats je je beste [projectfoto's](/blog/portfolio-stukadoor-projectfotos), klantreviews en een uitgebreidere beschrijving van je diensten. Maar de eerste indruk bepaalt of iemand scrollt.
+Onder de vouw plaats je je beste [projectfoto's](/blog/portfolio-stukadoor-voor-na-fotos), klantreviews en een uitgebreidere beschrijving van je diensten. Maar de eerste indruk bepaalt of iemand scrollt.
 
 ## Contactformulier optimaliseren
 
@@ -79,7 +79,7 @@ Als je website nu twee aanvragen per maand oplevert en je dat naar zes kunt bren
 - **Geen duidelijke call-to-action**: de bezoeker moet op elke pagina weten wat de volgende stap is
 - **Verouderde content**: projectfoto's van vijf jaar geleden of een telefoonnummer dat niet meer klopt ondermijnen vertrouwen
 - **Te veel tekst, te weinig beeld**: stukadoorswerk is visueel. Laat het zien
-- **Geen [mond-tot-mondreclame](/blog/mond-tot-mondreclame-stukadoor) online vertalen**: als klanten je offline aanbevelen maar online niets te vinden is, verlies je die warme leads
+- **Geen [mond-tot-mondreclame](/blog/mond-tot-mondreclame-stukadoor-versterken) online vertalen**: als klanten je offline aanbevelen maar online niets te vinden is, verlies je die warme leads
 
 ## Aan de slag
 

@@ -47,7 +47,7 @@ Met een standaardtemplate vul je alleen de specifieke details in — naam, adres
 
 Maak er een regel van: elke opname resulteert in een offerte vóór het einde van die werkdag. Dit is haalbaar met een template en vaste prijzen. De klant is dan nog vers in het vergelijkingsproces en jij zet de standaard.
 
-Verstuur de offerte per e-mail met een korte persoonlijke toelichting. Bel de volgende dag even om te vragen of alles duidelijk is. Deze opvolging [maakt het verschil](/blog/mond-tot-mondreclame-stukadoor) tussen een offerte die op de stapel belandt en een die wordt geaccepteerd.
+Verstuur de offerte per e-mail met een korte persoonlijke toelichting. Bel de volgende dag even om te vragen of alles duidelijk is. Deze opvolging [maakt het verschil](/blog/mond-tot-mondreclame-stukadoor-versterken) tussen een offerte die op de stapel belandt en een die wordt geaccepteerd.
 
 ### 4. Volg op binnen 48 uur
 
@@ -77,7 +77,7 @@ De snelste offerte wint, maar alleen als je de aanvraag ook binnenkrijgt. Zorg d
 - **Website met offerteformulier** — maak het zo laagdrempelig mogelijk. Naam, adres, omschrijving, foto's uploaden — meer heb je niet nodig
 - **Reageer snel op online aanvragen** — binnen een uur bellen maakt meer indruk dan een e-mail de volgende dag
 
-Lees ook hoe je je [stukadoorwebsite als aanvraagmachine](/blog/stukadoor-website-leadmachine) inricht.
+Lees ook hoe je je [stukadoorwebsite als aanvraagmachine](/blog/stukadoor-website-aanvraagmachine) inricht.
 
 ## Geen tijd voor marketing? Laat het over aan een specialist
 
@@ -91,4 +91,4 @@ De Groei-of-Geld-Terug Garantie zorgt ervoor dat je geen risico loopt: geen groe
 
 Het verschil tussen stukadoors die constant vol zitten en stukadoors die klussen mislopen, zit vaak niet in de kwaliteit van het werk — maar in de snelheid en professionaliteit van hun offerteproces. Standaardiseer je prijzen, gebruik templates, stuur dezelfde dag, en volg op. Kleine aanpassingen met groot effect.
 
-Bekijk ook onze tips voor [verduurzaming als stukadoor](/blog/verduurzaming-stukadoor-isolatiewerk) en hoe je met [email marketing herhaalopdrachten binnenhaalt](/blog/email-marketing-stukadoors).
+Bekijk ook onze tips voor [verduurzaming als stukadoor](/blog/verduurzaming-stukadoor-isolatie) en hoe je met [email marketing herhaalopdrachten binnenhaalt](/blog/email-marketing-stukadoor-herhaalopdrachten).

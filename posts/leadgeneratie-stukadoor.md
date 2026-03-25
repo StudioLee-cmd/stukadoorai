@@ -9,7 +9,7 @@ tags: ["leadgeneratie", "stukadoor", "klanten werven"]
 
 # Leadgeneratie als stukadoor: meer klussen buiten Google om
 
-De meeste stukadoors vertrouwen op twee kanalen: [Google](/blog/online-vindbaarheid-stukadoors-bovenaan-in-google) en mond-tot-mond. Dat werkt, maar het maakt je kwetsbaar. Als Google zijn algoritme verandert of als de mond-tot-mondreclame even stil valt, zit je zonder nieuwe opdrachten.
+De meeste stukadoors vertrouwen op twee kanalen: [Google](/blog/hoe-stukadoors-meer-klanten-vinden-via-google) en mond-tot-mond. Dat werkt, maar het maakt je kwetsbaar. Als Google zijn algoritme verandert of als de mond-tot-mondreclame even stil valt, zit je zonder nieuwe opdrachten.
 
 Diversificatie is de sleutel. In dit artikel ontdek je 5 leadbronnen die de meeste stukadoors niet benutten.
 
@@ -50,7 +50,7 @@ Benader ze proactief met:
 De hogere marktsegmenten — design-interieurs, luxe woningen, commercieel vastgoed — vinden stukadoors via interieurarchitecten. Bouw relaties op door:
 
 - Je portfolio te delen met lokale architecten
-- Projecten samen te documenteren op [social media](/blog/social-media-stukadoors-online-zichtbaar)
+- Projecten samen te documenteren op [social media](/blog/social-media-stukadoors-zichtbaar)
 - Expertise te tonen in decoratief stucwerk
 
 ### 4. Vastgoedontwikkelaars
@@ -67,14 +67,14 @@ De sterkste leadstrategie combineert beide werelden:
 
 | Online | Offline |
 |--------|---------|
-| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-stukadoor-meer-klussen) | Bouwnetwerken |
+| [Google Bedrijfsprofiel](/blog/google-bedrijfsprofiel-stukadoor) | Bouwnetwerken |
 | Website met portfolio | Relaties met aannemers |
-| [Email heractivering](/blog/email-marketing-stukadoors) | Lokale evenementen |
+| [Email heractivering](/blog/email-marketing-stukadoor-herhaalopdrachten) | Lokale evenementen |
 | Social media projecten | Mond-tot-mondreclame |
 
 ## Geen tijd voor leadgeneratie?
 
-Bij StudioLee nemen we de complete online leadgeneratie over. Van [Google optimalisatie](/blog/online-vindbaarheid-stukadoors-bovenaan-in-google) tot content marketing — alles draait terwijl jij stuct. Met slechts **15 minuten per maand** aan jouw kant.
+Bij StudioLee nemen we de complete online leadgeneratie over. Van [Google optimalisatie](/blog/hoe-stukadoors-meer-klanten-vinden-via-google) tot content marketing — alles draait terwijl jij stuct. Met slechts **15 minuten per maand** aan jouw kant.
 
 De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
 

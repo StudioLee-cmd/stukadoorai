@@ -35,7 +35,7 @@ Je hoeft geen marketingexpert te zijn. Er zijn vier soorten emails die perfect w
 
 **Seizoenstips**. In het voorjaar: "De winter is voorbij — check je muren op vochtschade." In het najaar: "Bereid je muren voor op de winter met een vochtbestendige afwerking." Relevant, behulpzaam en het houdt je top-of-mind.
 
-**Portfolio-updates**. Heb je een mooi project afgerond? Stuur een paar foto's met een korte beschrijving. "Onlangs hebben we dit appartement in Amsterdam van een compleet nieuw [stucwerk voorzien](/blog/sterk-portfolio-stukadoor). Het resultaat mag er zijn." Dit laat je vakmanschap zien en inspireert klanten met verbouwplannen.
+**Portfolio-updates**. Heb je een mooi project afgerond? Stuur een paar foto's met een korte beschrijving. "Onlangs hebben we dit appartement in Amsterdam van een compleet nieuw [stucwerk voorzien](/blog/portfolio-stukadoor-voor-na-fotos). Het resultaat mag er zijn." Dit laat je vakmanschap zien en inspireert klanten met verbouwplannen.
 
 **Onderhoudstips**. Korte, praktische tips die je klanten helpen: hoe kleine scheurtjes te repareren, wanneer opnieuw sausen nodig is, welke muurverf het beste werkt op stucwerk. Dit positioneert je als expert en bouwt vertrouwen.
 
