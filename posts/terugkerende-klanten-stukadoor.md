@@ -7,8 +7,6 @@ image: "/images/blog/terugkerende-klanten-stukadoor.png"
 tags: ["Klantbehoud", "Strategie", "Groei"]
 ---
 
-# Terugkerende klanten als stukadoor: van eenmalig naar vast contact
-
 Als stukadoor werk je vaak projectmatig: een klant belt, je doet de klus, en je ziet elkaar waarschijnlijk nooit meer. Dat is de realiteit van de branche — maar het hoeft niet zo te zijn. Stukadoors die investeren in klantrelaties ontdekken dat dezelfde klanten vaker terugkomen dan je denkt. En niet alleen voor stucwerk: voor schilderadvies, voor de buren die ook iets willen laten doen, of voor dat verbouwingsproject dat drie jaar later alsnog doorgaat.
 
 In dit artikel laten we zien hoe je als stukadoor die eenmalige klant omzet in een vast contact — zonder opdringerig te zijn.

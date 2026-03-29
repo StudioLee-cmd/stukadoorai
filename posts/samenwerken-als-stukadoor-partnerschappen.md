@@ -7,8 +7,6 @@ image: "/images/blog/samenwerken-als-stukadoor-partnerschappen.png"
 tags: ["samenwerkingen", "stukadoor", "groei"]
 ---
 
-# Samenwerken als stukadoor: partnerschappen die klussen opleveren
-
 Stucwerk is bijna altijd onderdeel van een groter project. Een verbouwing, een nieuwbouwwoning, een kantoor dat wordt opgeknapt. De vraag is: word je ingeschakeld door de eindklant, of door de aannemer die het project leidt? Strategische samenwerkingen bepalen vaak het verschil.
 
 ## Waarom samenwerkingen essentieel zijn voor stukadoors
@@ -35,7 +33,7 @@ Voordelen van structurele samenwerkingen:
 
 ### 1. Schilders zijn je natuurlijke partners
 
-Na het stucwerk komt het schilderwerk. Veel klanten zoeken beide apart — maar een schilder die een betrouwbare stukadoor kent, verwijst direct door. En andersom. Combineer je diensten in een gezamenlijke [offerte](/blog/offertes-stukadoor-sneller-reageren-meer-klussen) voor maximale waarde.
+Na het stucwerk komt het schilderwerk. Veel klanten zoeken beide apart — maar een schilder die een betrouwbare stukadoor kent, verwijst direct door. En andersom. Combineer je diensten in een gezamenlijke [offerte](/blog/offertes-stukadoor-meer-klussen) voor maximale waarde.
 
 ### 2. Word vast bij een aannemer
 
@@ -60,7 +58,7 @@ Vraag partners om een [Google review](/blog/meer-google-reviews-als-stukadoor) t
 ## Tips voor een succesvolle samenwerking
 
 - Wees betrouwbaar: kom op tijd, lever kwaliteit, communiceer proactief
-- Houd je [prijzen transparant](/blog/offertes-stukadoor-sneller-reageren-meer-klussen) richting partners
+- Houd je [prijzen transparant](/blog/offertes-stukadoor-meer-klussen) richting partners
 - Bespreek verantwoordelijkheden vooraf — wie doet wat?
 - Evalueer samen: werkt het, of moet je bijsturen?
 

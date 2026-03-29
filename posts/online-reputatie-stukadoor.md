@@ -7,8 +7,6 @@ image: "/images/blog/online-reputatie-stukadoor.png"
 tags: ["online reputatie", "stukadoor", "reviews"]
 ---
 
-# Online reputatie als stukadoor: reviews die vertrouwen opbouwen
-
 De kwaliteit van je stucwerk kan perfect zijn — maar als niemand dat online bevestigt, mis je klanten. Potentiele opdrachtgevers googelen, vergelijken reviews en beslissen in seconden. Je online reputatie is je digitale portfolio.
 
 ## Waarom reviews cruciaal zijn voor stukadoors

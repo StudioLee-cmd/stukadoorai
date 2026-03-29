@@ -7,8 +7,6 @@ image: "/images/blog/leadgeneratie-stukadoor.png"
 tags: ["leadgeneratie", "stukadoor", "klanten werven"]
 ---
 
-# Leadgeneratie als stukadoor: meer klussen buiten Google om
-
 De meeste stukadoors vertrouwen op twee kanalen: [Google](/blog/hoe-stukadoors-meer-klanten-vinden-via-google) en mond-tot-mond. Dat werkt, maar het maakt je kwetsbaar. Als Google zijn algoritme verandert of als de mond-tot-mondreclame even stil valt, zit je zonder nieuwe opdrachten.
 
 Diversificatie is de sleutel. In dit artikel ontdek je 5 leadbronnen die de meeste stukadoors niet benutten.

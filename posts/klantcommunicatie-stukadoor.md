@@ -7,8 +7,6 @@ image: "/images/blog/klantcommunicatie-stukadoor.png"
 tags: ["klantcommunicatie", "stukadoor", "klanttevredenheid"]
 ---
 
-# Klantcommunicatie als stukadoor: van offerte tot oplevering
-
 De kwaliteit van je stucwerk mag dan perfect zijn — als je communicatie dat niet is, verlies je klanten. Niet reageren op berichten, onduidelijke offertes of geen updates tijdens het project: het zijn de meest genoemde klachten over aannemers.
 
 In dit artikel leer je hoe je als stukadoor in elke fase van het project professioneel communiceert.
