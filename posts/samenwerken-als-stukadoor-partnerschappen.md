@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/samenwerken-als-stukadoor-partnerschappen.png"
 tags: ["samenwerkingen", "stukadoor", "groei"]
+cluster: "samenwerkingen"
 ---
 
 Stucwerk is bijna altijd onderdeel van een groter project. Een verbouwing, een nieuwbouwwoning, een kantoor dat wordt opgeknapt. De vraag is: word je ingeschakeld door de eindklant, of door de aannemer die het project leidt? Strategische samenwerkingen bepalen vaak het verschil.

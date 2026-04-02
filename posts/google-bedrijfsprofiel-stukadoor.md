@@ -5,6 +5,7 @@ date: "2026-03-20"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/google-bedrijfsprofiel-stukadoor.png"
 tags: ["Google", "Lokaal", "Vindbaarheid"]
+cluster: "google-bedrijfsprofiel"
 ---
 
 ## Wat is Google Bedrijfsprofiel

@@ -5,6 +5,7 @@ date: "2026-03-11"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/mond-tot-mondreclame-stukadoor-versterken.png"
 tags: ["Stukadoor", "Mond-tot-mond", "Klantwerving"]
+cluster: "mond-tot-mondreclame"
 ---
 
 ## Mond-tot-mond: de motor van elk stukadoorsbedrijf

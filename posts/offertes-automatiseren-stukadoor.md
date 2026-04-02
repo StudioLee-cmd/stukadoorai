@@ -5,6 +5,7 @@ date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-automatiseren-stukadoor.png"
 tags: ["Offertes", "Automatisering"]
+cluster: ""
 ---
 
 Als stukadoor zit je de hele dag op de steiger. Je handen zitten onder het stuc, je telefoon in je broekzak. Ondertussen stromen de offerteaanvragen binnen — via Werkspot, je website, WhatsApp. Tegen de tijd dat je 's avonds reageert, heeft de klant al een ander gebeld.

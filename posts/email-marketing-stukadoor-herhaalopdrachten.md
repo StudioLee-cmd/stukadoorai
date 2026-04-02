@@ -7,6 +7,7 @@ image: "/images/blog/email-marketing-stukadoor-herhaalopdrachten.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["email marketing", "stukadoor", "klantcontact"]
+cluster: "email-marketing"
 ---
 
 ## Waarom email marketing werkt voor stukadoors

@@ -5,6 +5,7 @@ date: "2026-03-28"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/online-reputatie-stukadoor.png"
 tags: ["online reputatie", "stukadoor", "reviews"]
+cluster: "online-reputatie"
 ---
 
 De kwaliteit van je stucwerk kan perfect zijn — maar als niemand dat online bevestigt, mis je klanten. Potentiele opdrachtgevers googelen, vergelijken reviews en beslissen in seconden. Je online reputatie is je digitale portfolio.

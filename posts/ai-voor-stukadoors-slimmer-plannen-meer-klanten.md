@@ -5,6 +5,7 @@ date: "2026-03-06"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-voor-stukadoors-slimmer-plannen-meer-klanten.png"
 tags: ["AI", "Automatisering", "Stukadoors"]
+cluster: "ai-automatisering"
 ---
 
 Als stukadoor ben je gewend aan precisiewerk. Datzelfde geldt inmiddels voor je bedrijfsvoering: klanten verwachten snelle offertes, heldere communicatie en professionele nazorg. Dat vraagt steeds meer tijd — tijd die je liever aan je vak besteedt. AI neemt die druk weg.

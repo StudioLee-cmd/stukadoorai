@@ -5,6 +5,7 @@ date: "2026-03-26"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/branding-stukadoor.png"
 tags: ["branding", "stukadoor", "marketing"]
+cluster: "branding"
 ---
 
 Je kunt de beste stukadoor van de regio zijn, maar als niemand je kent, verdien je er niets aan. Branding is het verschil tussen "een stukadoor" en "de stukadoor" in je regio. Het gaat niet om een duur logo of een fancy website — het gaat om herkenbaarheid en vertrouwen.

@@ -7,6 +7,7 @@ image: "/images/blog/stukadoor-website-aanvraagmachine.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["website", "stukadoor", "conversie"]
+cluster: "website-conversie"
 ---
 
 ## Waarom de meeste stukadoor-websites niet converteren

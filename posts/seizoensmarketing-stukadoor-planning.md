@@ -7,6 +7,7 @@ image: "/images/blog/seizoensmarketing-stukadoor-planning.png"
 author: "Tim van der Lee"
 authorSlug: "tim-van-der-lee"
 tags: ["seizoenswerk", "stukadoor", "planning"]
+cluster: "seizoenswerk"
 ---
 
 ## Waarom seizoenen je agenda bepalen

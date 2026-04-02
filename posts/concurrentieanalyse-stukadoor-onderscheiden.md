@@ -5,6 +5,7 @@ date: "2026-03-29"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/concurrentieanalyse-stukadoor-onderscheiden.jpg"
 tags: ["Concurrentie", "Strategie", "Groei"]
+cluster: "concurrentieanalyse"
 ---
 
 ## Het belang van concurrentieanalyse

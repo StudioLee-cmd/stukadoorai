@@ -5,6 +5,7 @@ date: "2026-03-14"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/portfolio-stukadoor-voor-na-fotos.png"
 tags: ["Portfolio", "Marketing", "Groei"]
+cluster: "portfolio"
 ---
 
 Als stukadoor verkoop je vakmanschap. Maar hoe laat je potentiele klanten zien hoe goed je bent voordat ze je inhuren? Het antwoord is simpel: met een sterk portfolio. Goede voor-en-na foto's van je projecten zijn de meest overtuigende verkooptool die je als stukadoor kunt hebben.

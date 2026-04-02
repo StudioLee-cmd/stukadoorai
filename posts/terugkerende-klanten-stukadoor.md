@@ -5,6 +5,7 @@ date: "2026-03-13"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/terugkerende-klanten-stukadoor.png"
 tags: ["Klantbehoud", "Strategie", "Groei"]
+cluster: "crm-klantbeheer"
 ---
 
 Als stukadoor werk je vaak projectmatig: een klant belt, je doet de klus, en je ziet elkaar waarschijnlijk nooit meer. Dat is de realiteit van de branche — maar het hoeft niet zo te zijn. Stukadoors die investeren in klantrelaties ontdekken dat dezelfde klanten vaker terugkomen dan je denkt. En niet alleen voor stucwerk: voor schilderadvies, voor de buren die ook iets willen laten doen, of voor dat verbouwingsproject dat drie jaar later alsnog doorgaat.

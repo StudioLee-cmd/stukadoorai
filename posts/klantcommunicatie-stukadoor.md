@@ -5,6 +5,7 @@ date: "2026-03-27"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/klantcommunicatie-stukadoor.png"
 tags: ["klantcommunicatie", "stukadoor", "klanttevredenheid"]
+cluster: "klantcommunicatie"
 ---
 
 De kwaliteit van je stucwerk mag dan perfect zijn — als je communicatie dat niet is, verlies je klanten. Niet reageren op berichten, onduidelijke offertes of geen updates tijdens het project: het zijn de meest genoemde klachten over aannemers.

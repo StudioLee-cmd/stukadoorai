@@ -5,6 +5,7 @@ date: "2026-03-03"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/hoe-stukadoors-meer-klanten-vinden-via-google.png"
 tags: ["Vindbaarheid", "Google", "Klanten", "Lokale SEO"]
+cluster: "vindbaarheid"
 ---
 
 ## Waarom Google jouw agenda bepaalt — ook als stukadoor

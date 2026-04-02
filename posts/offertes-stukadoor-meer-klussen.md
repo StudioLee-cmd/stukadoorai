@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-stukadoor-meer-klussen.png"
 tags: ["Offerte", "Klussen", "Groei"]
+cluster: "offerte-proces"
 ---
 
 Je rijdt naar een klant voor een vrijblijvende offerte, neemt de maten op, maakt aantekeningen, en belooft de offerte "deze week" te sturen. Drie dagen later heb je het nog niet gedaan — je had het druk met lopende projecten. Tegen de tijd dat je de offerte stuurt, heeft de klant al met twee andere stukadoors gesproken en gekozen.

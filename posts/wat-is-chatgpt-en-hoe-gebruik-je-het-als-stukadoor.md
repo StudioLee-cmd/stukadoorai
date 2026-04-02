@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/wat-is-chatgpt-en-hoe-gebruik-je-het-als-stukadoor.png"
 tags: ["Tools", "ChatGPT", "Stukadoors"]
+cluster: "tools-uitleg"
 ---
 
 ChatGPT is overal. Miljoenen mensen gebruiken het dagelijks — van studenten tot directeuren. Maar wat kan het concreet voor jou als stukadoor? En waar houdt het op? In dit artikel leggen we uit wat ChatGPT is, hoe je het slim inzet voor je stukadoorsbedrijf, en waarom een gespecialiseerd platform als StukadoorAI meer oplevert.

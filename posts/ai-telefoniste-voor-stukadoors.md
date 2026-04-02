@@ -5,6 +5,7 @@ date: "2026-01-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefoniste-voor-stukadoors.png"
 tags: ["Voice AI", "Innovatie", "Ondernemen"]
+cluster: ""
 ---
 
 Het meest frustrerende moment voor een stukadoor? Je staat net met een volle spaan gips in je handen, of erger nog, je bent aan het afmessen en de gips begint al aan te trekken. Het moet NU gebeuren. En dan... gaat je telefoon. Je voelt hem trillen in je broekzak. Je weet dat het een potentiële klant kan zijn met een mooie klus.

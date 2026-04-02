@@ -5,6 +5,7 @@ date: "2026-03-24"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leadgeneratie-stukadoor.png"
 tags: ["leadgeneratie", "stukadoor", "klanten werven"]
+cluster: "lead-opvolging"
 ---
 
 De meeste stukadoors vertrouwen op twee kanalen: [Google](/blog/hoe-stukadoors-meer-klanten-vinden-via-google) en mond-tot-mond. Dat werkt, maar het maakt je kwetsbaar. Als Google zijn algoritme verandert of als de mond-tot-mondreclame even stil valt, zit je zonder nieuwe opdrachten.

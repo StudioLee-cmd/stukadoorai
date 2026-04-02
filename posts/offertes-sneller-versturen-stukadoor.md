@@ -5,6 +5,7 @@ date: "2026-03-10"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-sneller-versturen-stukadoor.png"
 tags: ["Stukadoor", "Offertes", "Bedrijfsvoering"]
+cluster: "bedrijfsvoering"
 ---
 
 ## Het offerte-probleem van stukadoors

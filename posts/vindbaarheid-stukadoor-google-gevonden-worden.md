@@ -5,6 +5,7 @@ date: "2026-03-30"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/vindbaarheid-stukadoor-google-gevonden-worden.jpg"
 tags: ["Vindbaarheid", "SEO", "Groei"]
+cluster: "vindbaarheid"
 ---
 
 ## Waarom vindbaarheid alles bepaalt voor stukadoors

@@ -5,6 +5,7 @@ date: "2026-03-07"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/beste-software-voor-stukadoors-2026.png"
 tags: ["Software", "Vergelijking", "Tools"]
+cluster: "tools-uitleg"
 ---
 
 Als stukadoor heb je je handen vol aan het werk zelf. Maar zonder de juiste software laat je opdrachten liggen, duurt factureren te lang en weten potentiële klanten je niet te vinden. Welke tools helpen jou als stukadoor écht vooruit in 2026?

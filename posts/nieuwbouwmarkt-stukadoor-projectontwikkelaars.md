@@ -5,6 +5,7 @@ date: "2026-03-12"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/nieuwbouwmarkt-stukadoor-projectontwikkelaars.png"
 tags: ["Stukadoor", "Nieuwbouw", "B2B"]
+cluster: "nieuwbouw"
 ---
 
 ## Waarom nieuwbouw interessant is voor stukadoors
