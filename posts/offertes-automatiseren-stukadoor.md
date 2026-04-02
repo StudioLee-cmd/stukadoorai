@@ -3,7 +3,7 @@ title: "Offertes automatiseren als stukadoor: sneller reageren, meer opdrachten"
 excerpt: "Elke uur dat je wacht met reageren op een offerteaanvraag, daalt de kans op de opdracht met 10%. Leer hoe je sneller offertes uitbrengt zonder meer tijd kwijt te zijn."
 date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
-image: "/images/blog/offertes-automatiseren-stukadoor.png"
+image: "/images/blog/offertes-automatiseren-stukadoor.jpg"
 tags: ["Offertes", "Automatisering"]
 cluster: ""
 ---
