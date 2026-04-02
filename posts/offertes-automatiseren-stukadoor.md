@@ -1,7 +1,7 @@
 ---
 title: "Offertes automatiseren als stukadoor: sneller reageren"
 excerpt: "Reageer sneller op offerteaanvragen en win meer opdrachten. Automatiseringstips voor stukadoors."
-date: "2026-04-01"
+date: "2026-04-02"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/offertes-automatiseren-stukadoor.png"
 tags: ["Offertes", "Automatisering"]
