@@ -23,7 +23,7 @@ Na het versturen van je offerte:
 
 **Stap 3 (dag 10):** Laatste bericht: "Heeft u al een keuze gemaakt? Ik hoor het graag zodat ik mijn planning kan bijwerken." Dit laat zien dat je professioneel en druk bent — wat de urgentie verhoogt.
 
-Na drie contactmomenten zonder reactie: parkeer de lead. Meer is teveel. Systemen zoals die van [StukadoorAI](/) automatiseren deze flow.
+Na drie contactmomenten zonder reactie: parkeer de lead. Met een [geautomatiseerd systeem](/chatbot) vergeet je nooit een follow-up. Meer is teveel. Systemen zoals die van [StukadoorAI](/) automatiseren deze flow.
 
 ![Professioneel stukadoorsgereedschap op schone werkplek](/images/blog/leads-opvolgen-stukadoor-offerte-2.jpg)
 
