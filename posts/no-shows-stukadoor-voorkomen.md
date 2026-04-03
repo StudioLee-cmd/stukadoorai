@@ -38,7 +38,7 @@ Die checklist voorkomt type-2 no-shows bijna volledig. Klanten waarderen het ook
 
 ## Automatische herinneringen instellen
 
-Handmatig elke klant bellen of appen kost tijd die je beter op de bouwplaats doorbrengt. Met een geautomatiseerd systeem stuur je herinneringen op vaste momenten:
+Handmatig elke klant bellen of appen kost tijd die je beter op de bouwplaats doorbrengt. Met [een geautomatiseerd systeem](/chatbot) stuur je herinneringen op vaste momenten:
 
 - 3 dagen ervoor: voorbereidingschecklist
 - 24 uur ervoor: bevestigingsverzoek
