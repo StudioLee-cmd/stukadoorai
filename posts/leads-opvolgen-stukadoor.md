@@ -42,6 +42,16 @@ Niet in je hoofd, niet op een papiertje — in een digitaal systeem. Elke aanvra
 
 Waarom koos de klant voor een ander? Te duur? Te laat? Verkeerd materiaal? Als je dit bijhoudt, zie je patronen en kun je je aanpak verbeteren.
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als stukadoor.
+
+Een [AI chatbot](/chatbot) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [AI telefonist](/voice-ai) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [gratis scan](/gratis-scan) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Het verschil tussen een stukadoor die het druk heeft en een die het rustig heeft, is vaak niet de kwaliteit van het werk — het is de snelheid en consistentie van de opvolging. Met een paar simpele automatiseringen haal je meer uit dezelfde aanvragen.
