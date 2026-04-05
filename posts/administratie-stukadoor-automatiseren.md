@@ -55,6 +55,16 @@ Stukadoors die hun administratie digitaliseren besparen gemiddeld:
 - Minder fouten in offertes en facturen
 - Een schonere inbox en minder vergeten berichten
 
+
+
+## Automatiseren: zo doe je het zonder extra moeite
+
+Je hoeft dit niet allemaal handmatig te doen. Met de juiste tools draait het op de achtergrond terwijl jij gewoon je werk doet als stukadoor.
+
+Een [AI chatbot](/chatbot) vangt automatisch vragen op en plant afspraken in — ook buiten werktijd. Een [gratis scan](/gratis-scan) zorgt ervoor dat je bereikbaar bent zonder zelf de telefoon op te pakken. En met [automatische review-verzoeken](/reviews) bouw je ondertussen je online reputatie op.
+
+Het resultaat? Meer klanten, minder administratie, en een systeem dat draait zonder dat je eraan hoeft te denken. Alles begint met een [AI telefonist](/voice-ai) — we analyseren je huidige situatie en laten zien wat er mogelijk is.
+
 ## Conclusie
 
 Administratie hoort bij ondernemen, maar het hoeft niet je avonden op te slokken. Met de juiste tools doe je in 15 minuten wat je nu 2 uur kost. Meer tijd voor je vak, meer tijd voor jezelf.
