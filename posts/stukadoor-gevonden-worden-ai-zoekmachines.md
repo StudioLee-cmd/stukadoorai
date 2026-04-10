@@ -65,4 +65,4 @@ Als je niet genoemd wordt, is dat een teken dat je online aanwezigheid niet ster
 
 AI-zoekmachines zijn de toekomst van hoe klanten bedrijven vinden. De stukadoors die nu investeren in [SEO](/seo) dat werkt voor zowel Google als AI-tools, hebben straks een onhaalbare voorsprong.
 
-Wil je weten hoe jouw bedrijf scoort in AI-zoekmachines? Vraag een [gratis scan](/gratis-scan) aan en we checken het voor je.
+Een sterke [SEO-basis](/seo) is voorwaarde voor zichtbaarheid in zowel Google als AI-tools. Wil je weten hoe jouw bedrijf scoort in AI-zoekmachines? Vraag een [gratis scan](/gratis-scan) aan en we checken het voor je.
