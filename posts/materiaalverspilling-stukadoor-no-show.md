@@ -2,11 +2,11 @@
 title: "Materiaalverspilling bij no-shows: wat het je als stukadoor kost"
 excerpt: "Bij een no-show verlies je niet alleen tijd. Je verliest ook aangemaakt stucwerk, besteld materiaal en brandstof. Zo beperk je de schade."
 date: "2026-04-12"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/materiaalverspilling-stukadoor-no-show.jpg"
 tags: ["No-shows", "Kosten", "Groei"]
 ---
-
 ## Het probleem dat niemand berekent
 
 Als stukadoor reken je je uren. Je weet wat een dag kost aan arbeid. Maar de verborgen kosten van een no-show gaan verder dan verloren uren. Je hebt stucmortel aangemaakt die binnen twee uur uithardt. Je hebt zand en cement besteld dat je niet retourneert. Je hebt brandstof verbruikt om erheen te rijden.

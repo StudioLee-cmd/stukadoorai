@@ -2,11 +2,11 @@
 title: "Lokale SEO als stukadoor: meer opdrachten via Google"
 excerpt: "Meer stukadoorwerk via Google? Ontdek hoe lokale SEO je helpt om gevonden te worden door klanten die nu een stukadoor zoeken."
 date: "2026-04-04"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/lokale-seo-stukadoor-meer-opdrachten.jpg"
 tags: ["SEO", "Vindbaarheid", "Stukadoor"]
 ---
-
 ## Waarom stukadoors lokale SEO nodig hebben
 
 Een klant die zijn woonkamer wil laten stukken, zoekt op Google naar 'stukadoor in de buurt' of 'stukadoor [stad]'. In de bouw- en renovatiesector gaat 80% van de nieuwe opdrachten via online zoekopdrachten of platforms. Als je daar niet zichtbaar bent, loop je klussen mis — ongeacht je vakmanschap.

@@ -2,11 +2,11 @@
 title: "Klant annuleert stucwerk: zo beperk je de schade"
 excerpt: "Last-minute annuleringen kosten stukadoors honderden euro's per keer. Leer hoe je annuleringen voorkomt en de financiële schade beperkt met duidelijke afspraken."
 date: "2026-04-11"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/annulering-stucwerk-schade-beperken.jpg"
 tags: ["No-shows", "Planning", "Groei"]
 ---
-
 ## Waarom annuleringen stukadoors extra hard raken
 
 Als schilder of loodgieter verlies je bij een annulering een paar uur werk. Als stukadoor verlies je vaak een hele dag of zelfs meerdere dagen. Stucwerk vereist voorbereiding: materiaal bestellen, steigerwerk regelen, soms zelfs een collega inplannen. Een annulering twee dagen van tevoren betekent dat je die capaciteit niet meer kunt vullen.

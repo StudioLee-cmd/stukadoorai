@@ -2,11 +2,11 @@
 title: "Meer klanten als stukadoor: 6 manieren buiten Google om"
 excerpt: "Google is niet de enige manier om aan klanten te komen. Ontdek 6 offline en online strategieën die stukadoors structureel nieuwe opdrachten opleveren."
 date: "2026-04-06"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stukadoor-meer-klanten-werven.jpg"
 tags: ["Marketing", "Stukadoor", "Klanten"]
 ---
-
 ## Niet iedereen zoekt op Google
 
 De meeste stukadoors denken bij marketing meteen aan Google. En ja, [vindbaarheid in Google](/seo) is belangrijk. Maar het is niet de enige manier om aan klanten te komen, en voor veel stukadoors zelfs niet de snelste.

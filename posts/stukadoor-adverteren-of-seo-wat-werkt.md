@@ -2,11 +2,11 @@
 title: "Adverteren of SEO als stukadoor: wat werkt?"
 excerpt: "Google Ads of SEO als stukadoor? Vergelijk kosten, snelheid en resultaat zodat je weet waar je budget het meeste oplevert voor meer opdrachten."
 date: "2026-04-19"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stukadoor-adverteren-of-seo-wat-werkt.jpg"
 tags: ["Vindbaarheid", "Marketing", "Groei"]
 ---
-
 ## De vraag die elke stukadoor zich stelt
 
 Je wilt meer opdrachten, maar je hebt geen onbeperkt budget. Investeer je in Google Ads en betaal je per klik, of steek je je tijd in SEO en wacht je tot Google je vanzelf hoger plaatst? Het antwoord is niet zo simpel als "doe allebei." Soms is de ene aanpak slimmer dan de andere, afhankelijk van waar je bedrijf staat.

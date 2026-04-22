@@ -2,11 +2,11 @@
 title: "Sneller offertes versturen als stukadoor: meer opdrachten binnenhalen"
 excerpt: "De snelste stukadoor wint de klus, niet de goedkoopste. Lees hoe je je offerteproces stroomlijnt en daardoor meer opdrachten binnenhaalt."
 date: "2026-04-08"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stukadoor-snel-offerte-versturen-tips.jpg"
 tags: ["Offertes", "Stukadoor", "Lead opvolging"]
 ---
-
 ## Snelheid bepaalt wie de klus krijgt
 
 Een huiseigenaar wil de muren laten stucen. Hij stuurt drie offerteaanvragen uit op een dinsdagavond. De volgende ochtend heeft hij al een offerte van stukadoor één in zijn mailbox. Stukadoor twee belt 's middags. Stukadoor drie? Die stuurt vier dagen later een PDF.

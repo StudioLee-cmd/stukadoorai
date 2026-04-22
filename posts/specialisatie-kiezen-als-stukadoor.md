@@ -2,11 +2,11 @@
 title: "Specialisatie kiezen als stukadoor: wat werkt echt?"
 excerpt: "Specialisatie als stukadoor kiezen: de vier richtingen met hun winstgevendheid, klantenkring en gereedschapsinvestering — plus hoe je de juiste kiest."
 date: "2026-04-21"
+cluster: "specialisatie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/specialisatie-kiezen-als-stukadoor.jpg"
 tags: ["Stukadoor", "Specialisatie", "Ondernemerschap", "Groeistrategie"]
 ---
-
 De vraag "moet ik me specialiseren?" komt vroeger of later bij elke zelfstandig stukadoor langs. Het begint meestal met een volle agenda en de bijbehorende burn-out, of juist met een magere periode waarin het kwartje valt: misschien moet ik stoppen met alles-voor-iedereen en focussen. Het probleem is dat de meeste artikelen over specialisatie zijn geschreven voor consumenten die willen weten wat sierpleister is. Niet voor ondernemers die moeten beslissen waar ze hun volgende drie jaar in stoppen.
 
 Deze gids kijkt naar specialisatie als ondernemersbeslissing. Welke vier richtingen staan echt open voor een stukadoor in 2026, hoe verschillen ze in marge, welke klantengroep hoort bij elke richting, en hoe check je of er in jouw regio genoeg vraag is. Aan het einde weet je welke richting voor jou het meeste oplevert — en welke je juist niet moet kiezen ondanks dat het vakinhoudelijk aantrekkelijk lijkt.

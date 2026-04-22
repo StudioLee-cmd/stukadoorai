@@ -2,11 +2,11 @@
 title: "Hoe je als stukadoor meer aanvragen haalt uit je website"
 excerpt: "Je website trekt bezoekers maar te weinig aanvragen? Zo maak je als stukadoor van elke bezoeker een potentiële klant."
 date: "2026-04-15"
+cluster: "website-conversie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stukadoor-website-meer-aanvragen.jpg"
 tags: ["Website", "Conversie", "Leads"]
 ---
-
 Je hebt een website. Misschien zelfs een die er goed uitziet. Maar het aantal aanvragen dat binnenkomt? Teleurstellend. Elke maand komen er honderden bezoekers op je site, en toch bellen er maar een handvol. De rest klikt rond, bekijkt je projecten, en verdwijnt weer.
 
 Dat is geen toeval. De meeste stukadoorswebsites zijn gebouwd als digitale visitekaartjes: mooi, maar passief. Ze vertellen wie je bent, maar ze vragen niet om actie. En precies daar zit het verschil tussen een website die er staat en een website die klanten oplevert.

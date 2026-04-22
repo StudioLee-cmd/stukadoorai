@@ -2,11 +2,11 @@
 title: "Hoe klanten jouw stukadoorsbedrijf vinden via Google"
 excerpt: "De meeste stucwerk-opdrachten beginnen met een Google zoekopdracht. Ontdek hoe je als stukadoor bovenaan komt en meer aanvragen binnenkrijgt."
 date: "2026-04-17"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stukadoorsbedrijf-vinden-google.jpg"
 tags: ["Vindbaarheid", "Google", "Klanten"]
 ---
-
 ## Waar zoeken klanten naar een stukadoor
 
 Wanneer iemand een muur wil laten stucen, een plafond glad wil hebben of spachtelputz wil laten aanbrengen, begint de zoektocht bijna altijd op Google. "Stukadoor in de buurt", "stucwerk prijzen" of "plafond stucen kosten" zijn zoekopdrachten die dagelijks duizenden keren worden ingetypt in Nederland.

@@ -2,11 +2,11 @@
 title: "Gevonden worden in AI-zoekmachines als stukadoor: ChatGPT, Perplexity en meer"
 excerpt: "Steeds meer klanten zoeken via ChatGPT en Perplexity in plaats van Google. Zo zorg je dat jouw stukadoorsbedrijf ook daar verschijnt."
 date: "2026-04-10"
+cluster: "vindbaarheid"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stukadoor-gevonden-worden-ai-zoekmachines.jpg"
 tags: ["Vindbaarheid", "Stukadoor", "AI"]
 ---
-
 ## De zoekrevolutie: van Google naar AI
 
 Google is nog steeds de grootste zoekmachine. Maar een groeiend aantal mensen zoekt niet meer op Google. Ze typen hun vraag in ChatGPT: "Ken je een goede stukadoor in Breda?" Of ze gebruiken Perplexity: "Wat kost stukadoorwerk per vierkante meter in Nederland?"

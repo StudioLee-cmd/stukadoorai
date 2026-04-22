@@ -2,11 +2,11 @@
 title: "Stukadoor aanvragen via telefoon: hoeveel kansen mis je per week?"
 excerpt: "Hoeveel offerte-aanvragen gaan verloren omdat je de telefoon niet opneemt? Voor stukadoors is dat aantal vaak hoger dan je denkt. Hier lees je hoe je het in kaart brengt en oplost."
 date: "2026-04-22"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stukadoor-aanvragen-telefoon-gemiste-kansen-per-week.jpg"
 tags: ["Stukadoor", "Bereikbaarheid", "Voice AI", "Leadgeneratie"]
 ---
-
 Donderdagochtend, half elf. Je staat op de steiger een grote latex-wand af te werken. Je telefoon trilt drie keer, je kan niet opnemen. Als je 's avonds thuiskomt zie je een gemist gesprek en geen voicemail. Je belt terug, maar de klant heeft al een offerte van iemand anders. Dat is niet één verloren klus, dat is een patroon.
 
 Stukadoors zijn het kwetsbaarst voor gemiste oproepen van alle afbouwvakken. Je werkt met beide handen, vaak op hoogte, soms in stoffige ruimtes waar je telefoon niet eens in je broekzak zit. Intussen zoeken klanten naar je vak op een moment dat ze een probleem willen oplossen: vocht, een gescheurde wand, nieuwbouw dat af moet. Ze bellen drie stukadoors en boeken de eerste die opneemt. Als jij nummer twee of drie bent, boek je niks.

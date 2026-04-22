@@ -2,11 +2,11 @@
 title: "De perfecte offerte als stukadoor: zo win je meer opdrachten"
 excerpt: "Een goede offerte is meer dan een prijs. Ontdek wat erin moet, wat je beter kunt weglaten en hoe je als stukadoor meer klussen binnenhaalt."
 date: "2026-04-14"
+cluster: "offerte-proces"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/perfecte-offerte-stukadoor-opdrachten.jpg"
 tags: ["Offerte", "Stukadoor Tips", "Klantrelatie"]
 ---
-
 ## Waarom de meeste offertes niet overtuigen
 
 Je hebt de muren bekeken, een inschatting gemaakt en een prijs doorgestuurd. Twee dagen later hoor je niets meer. De klant heeft voor een ander gekozen, of heeft helemaal niet gereageerd.

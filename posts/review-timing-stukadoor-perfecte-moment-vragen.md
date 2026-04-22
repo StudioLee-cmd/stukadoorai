@@ -2,11 +2,11 @@
 title: "Review timing als stukadoor: het perfecte moment om klanten om een review te vragen"
 excerpt: "Het juiste moment om een review te vragen als stukadoor maakt het verschil tussen 5 en 50 Google reviews. Zo kies je het perfecte moment."
 date: "2026-04-09"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-timing-stukadoor-perfecte-moment-vragen.jpg"
 tags: ["Reviews", "Stukadoor", "Google"]
 ---
-
 ## Waarom timing alles is bij reviews
 
 Elke stukadoor weet dat je reviews nodig hebt. Maar de meeste vragen er verkeerd om. Ze sturen drie weken na de klus een mailtje, of ze vragen er helemaal niet naar omdat het ongemakkelijk voelt. Het resultaat: te weinig reviews en een Google-profiel dat achterblijft bij de concurrent.

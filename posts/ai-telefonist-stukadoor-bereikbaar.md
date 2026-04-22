@@ -2,11 +2,11 @@
 title: "AI telefonist voor stukadoors: altijd bereikbaar op de klus"
 excerpt: "Mis je oproepen terwijl je aan het stucen bent? Een AI telefonist vangt elke beller op zodat jij geen opdracht mist."
 date: "2026-04-17"
+cluster: "voice-ai"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/ai-telefonist-stukadoor-bereikbaar.jpg"
 tags: ["Voice AI", "Bereikbaarheid", "Automatisering"]
 ---
-
 ## Op de steiger neem je niet op
 
 Als stukadoor sta je met je handen in het stucwerk. Je spuit, schuurt of trekt glad. Je telefoon rinkelt, maar opnemen is geen optie met natte handen en een troffel in je vuist. Tegen de tijd dat je pauze hebt en terugbelt, heeft de beller al een andere stukadoor gevonden.

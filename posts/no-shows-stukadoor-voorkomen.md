@@ -2,11 +2,11 @@
 title: "No-shows als stukadoor voorkomen"
 excerpt: "Klant niet thuis terwijl jij klaarstaat met je spullen? No-shows kosten stukadoors tijd en materiaal. Ontdek hoe je het voorkomt met slimme planning."
 date: "2026-04-03"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-stukadoor-voorkomen.jpg"
 tags: ["No-shows", "Planning", "Stukadoor"]
 ---
-
 ## Waarom no-shows als stukadoor extra frustrerend zijn
 
 Als stukadoor werk je met materiaal dat niet kan wachten. Gips en pleister hebben een beperkte verwerkingstijd — als je eenmaal mengt, moet je aan de slag. Een no-show betekent niet alleen verloren tijd, maar soms ook verspild materiaal.

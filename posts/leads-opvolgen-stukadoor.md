@@ -2,11 +2,11 @@
 title: "Leads opvolgen als stukadoor: van aanvraag naar opdracht"
 excerpt: "Je krijgt aanvragen maar ze worden niet allemaal opdrachten. Leer hoe je als stukadoor meer leads omzet in betalende klanten."
 date: "2026-04-05"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-stukadoor.jpg"
 tags: ["Leads", "Stukadoor", "Verkoop"]
 ---
-
 ## De aanvragen komen, maar de opdrachten niet
 
 Je website draait, je Google-profiel staat er goed op en je krijgt regelmatig aanvragen. Maar van de tien aanvragen worden er misschien drie een opdracht. Wat gebeurt er met de andere zeven?

@@ -2,11 +2,11 @@
 title: "Administratie als stukadoor: minder papierwerk, meer stucwerk"
 excerpt: "Uren kwijt aan facturen, offertes en planning? Ontdek hoe je als stukadoor je administratie automatiseert en meer tijd overhoudt voor je vak."
 date: "2026-04-05"
+cluster: "administratie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/administratie-stukadoor-automatiseren.jpg"
 tags: ["Administratie", "Stukadoor", "Automatisering"]
 ---
-
 ## 's Avonds achter de laptop in plaats van op de bank
 
 Je bent de hele dag bezig geweest met stucwerk — fysiek zwaar werk. En dan moet je 's avonds nog drie offertes typen, twee facturen versturen en je uren bijhouden in een spreadsheet. De administratie is de reden waarom veel stukadoors later naar bed gaan dan nodig.

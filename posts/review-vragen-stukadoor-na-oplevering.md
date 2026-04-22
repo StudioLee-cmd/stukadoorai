@@ -2,11 +2,11 @@
 title: "Review vragen als stukadoor: het moment na de oplevering"
 excerpt: "Het stucwerk is klaar, de klant is blij. Dat is het moment voor een review. Zo vraag je het als stukadoor."
 date: "2026-04-12"
+cluster: "review-automatisering"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/review-vragen-stukadoor-na-oplevering.jpg"
 tags: ["Reviews", "Klanten", "Groei"]
 ---
-
 ## Na de oplevering is het gouden moment
 
 De muur is glad, het plafond perfect, de klant loopt door de kamer en zegt "wauw." Dat is het moment waarop je vraagt om een review. Niet morgen, niet volgende week. Nu, terwijl de emotie er is.

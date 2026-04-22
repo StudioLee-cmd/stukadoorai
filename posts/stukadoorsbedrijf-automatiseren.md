@@ -2,11 +2,11 @@
 title: "Stukadoorsbedrijf automatiseren: minder papierwerk, meer stucwerk"
 excerpt: "Stukadoors verliezen gemiddeld 10 uur per week aan administratie. Ontdek welke taken je kunt automatiseren en hoeveel tijd je terugwint."
 date: "2026-04-06"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/stukadoorsbedrijf-automatiseren.jpg"
 tags: ["Automatisering", "Stukadoor", "Bedrijfsvoering"]
 ---
-
 ## De spaan in de ene hand, de telefoon in de andere
 
 Stukadoren is precisiewerk. Je hebt twee handen nodig, volledige concentratie en geen afleiding. Maar tussendoor gaat je telefoon: een klant die vraagt wanneer je langskomt, een leverancier die belt over een bestelling, een nieuwe aanvraag via je website die je moet beantwoorden voor iemand anders het doet.

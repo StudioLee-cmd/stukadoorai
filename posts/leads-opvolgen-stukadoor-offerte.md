@@ -2,11 +2,11 @@
 title: "Leads opvolgen als stukadoor: geen offerte missen"
 excerpt: "Offertes die onbeantwoord blijven kosten je als stukadoor klussen en omzet. Leer hoe je met slimme opvolging meer offertes omzet in opdrachten."
 date: "2026-04-03"
+cluster: "lead-opvolging"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/leads-opvolgen-stukadoor-offerte.jpg"
 tags: ["Leads", "Lead opvolging", "Stukadoor", "Offertes"]
 ---
-
 ## Waarom stukadoors te veel offertes verliezen
 
 De gemiddelde stukadoor stuurt zijn offerte en wacht. Ondertussen heeft de klant drie offertes liggen en kiest de aannemer die belt om te vragen of er nog vragen zijn. Niet de goedkoopste, maar de meest betrokken.

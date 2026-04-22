@@ -2,11 +2,11 @@
 title: "No-shows voorkomen als stukadoor: 7 praktische tips"
 excerpt: "Elke no-show kost je als stukadoor een halve werkdag. Ontdek 7 bewezen methoden om no-shows te voorkomen en je planning vol te houden."
 date: "2026-04-07"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/no-shows-stukadoor-voorkomen-tips.jpg"
 tags: ["No-shows", "Planning", "Stukadoor"]
 ---
-
 ## Wat een no-show je als stukadoor echt kost
 
 Je rijdt 's ochtends naar een klus. Busje ingepakt, stucmateriaal geladen, planning klopt. Je belt aan. Geen reactie. Je belt de klant. Telefoon gaat over, geen antwoord. Na 20 minuten wachten rijd je onverrichterzake terug.

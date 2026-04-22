@@ -2,11 +2,11 @@
 title: "WhatsApp herinneringen voor stukadoors: minder no-shows"
 excerpt: "Ontdek hoe WhatsApp-herinneringen je stukadoorsagenda vullen, no-shows halveren en materiaalverspilling voorkomen. Praktische voorbeelden en timing."
 date: "2026-04-16"
+cluster: "no-shows"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/whatsapp-herinneringen-stukadoor-no-shows.jpg"
 tags: ["WhatsApp", "Herinneringen", "Stukadoor"]
 ---
-
 ## Waarom stukadoors extra last hebben van no-shows
 
 Voor een kapper of fysiotherapeut is een no-show vervelend: een leeg uur in de agenda. Voor een stukadoor is het wezenlijk duurder. Je hebt twee dagen van tevoren al zakken gips besteld, soms een steiger laten plaatsen, en je rijdt op met een team van twee man die elders ook geld hadden kunnen verdienen. Een no-show op een klusochtend is geen lege stoel, het is een dag verbrand werkkapitaal.

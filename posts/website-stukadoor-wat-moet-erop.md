@@ -2,11 +2,11 @@
 title: "Wat moet er op de website van een stukadoor staan?"
 excerpt: "Een stukadoorswebsite hoeft niet ingewikkeld te zijn, maar deze 6 elementen mogen niet ontbreken als je serieuze aanvragen wilt binnenkrijgen."
 date: "2026-04-18"
+cluster: "website-conversie"
 authorSlug: "tim-van-der-lee"
 image: "/images/blog/website-stukadoor-wat-moet-erop.jpg"
 tags: ["Website", "Conversie", "Klanten"]
 ---
-
 ## Waarom veel stukadoorswebsites niet converteren
 
 Je hebt een website. Misschien laten bouwen door een kennis, misschien zelf in elkaar gezet met een template. Hij staat online, er staan een paar foto's op en je telefoonnummer staat ergens onderaan. Maar de telefoon gaat niet vaker dan voor je de website had.
