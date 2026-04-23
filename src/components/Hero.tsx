@@ -75,7 +75,7 @@ const Hero: React.FC = () => {
                         <motion.span
                             style={{ x: xLeft, opacity, display: 'inline-block' }}
                         >
-                            <Highlight color="secondary">pleisterwerk</Highlight>.
+                            <Highlight color="secondary">spaanmes</Highlight>.
                         </motion.span>
                     </h1>
                 </motion.div>
