@@ -86,7 +86,7 @@ Bij dit soort klus is de bezichtiging een investering. Als je hem zou overslaan 
 
 **Te precies willen zijn in bandbreedte-offertes.** "680 tot 840" werkt. "Tussen 700 en 710 afhankelijk van 4 factoren" voelt voor de klant onzeker. Geef een duidelijke range met de nuance dat de definitieve prijs ter plekke valt.
 
-**Geen afspraak-koppeling.** Zonder directe agenda-koppeling belandt elke goede chatbot-intake in een to-do-list waar ze 3 dagen op antwoord wachten. Dan is de snelheidsvoordeel weer weg. Lees onze aanpak voor [lead-opvolging bij stukadoors](/blog/lead-opvolging-stukadoor-aanvraag) voor het hele traject.
+**Geen afspraak-koppeling.** Zonder directe agenda-koppeling belandt elke goede chatbot-intake in een to-do-list waar ze 3 dagen op antwoord wachten. Dan is de snelheidsvoordeel weer weg. Lees onze aanpak voor [lead-opvolging bij stukadoors](/blog/leads-opvolgen-stukadoor) voor het hele traject.
 
 ## Waar begin je
 

@@ -44,7 +44,7 @@ Lever consistent kwaliteit bij elke klus voor een aannemer. Na drie goede ervari
 
 ### 3. Specialiseer en communiceer dat
 
-Als je je hebt [gespecialiseerd](/blog/specialiseren-stukadoor) in Venetiaans stucwerk of sierlijsten, word je aantrekkelijk voor architecten en interieurontwerpers. Zij zoeken vakmensen met specifieke expertise.
+Als je je hebt [gespecialiseerd](/blog/specialisatie-kiezen-als-stukadoor) in Venetiaans stucwerk of sierlijsten, word je aantrekkelijk voor architecten en interieurontwerpers. Zij zoeken vakmensen met specifieke expertise.
 
 ## Nieuwbouw als samenwerking
 
