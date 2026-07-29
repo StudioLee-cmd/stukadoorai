@@ -84,5 +84,3 @@ De meeste stukadoorsbedrijven zoeken hulp bij:
 ## Conclusie: combineer slim
 
 De beste aanpak: [StukadoorAI](/) voor je complete bedrijfsvoering — planning, facturatie, vindbaarheid en reviews. Combineer eventueel met Moneybird voor uitgebreide BTW-administratie, en Werkspot of Zoofy voor directe opdrachten.
-
-Benieuwd wat StukadoorAI voor jouw bedrijf kan betekenen? [Plan een gratis gesprek](https://cal.com/studiolee).

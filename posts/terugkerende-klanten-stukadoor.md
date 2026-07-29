@@ -76,4 +76,4 @@ Klantbehoud is voor stukadoors geen luxe — het is de meest rendabele groeistra
 
 Begin deze week. Stuur die ene klant van vorige maand een berichtje. Vraag hoe het gaat. Het kost je 30 seconden — en het kan je duizenden euro's opleveren.
 
-Wil je hulp bij het automatiseren van klantcontact en opvolging? Bekijk wat [StukadoorAI](/) voor je kan betekenen of [plan een gratis gesprek](https://cal.com/studiolee).
+Wil je hulp bij het automatiseren van klantcontact en opvolging? Bekijk wat [StukadoorAI](/) voor je kan betekenen.
