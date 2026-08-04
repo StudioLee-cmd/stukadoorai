@@ -20,6 +20,10 @@ const nextConfig = {
             { source: '/reviews-voor-:suffix', destination: '/reviews', permanent: true },
             { source: '/seo-voor-:suffix', destination: '/seo', permanent: true },
             { source: '/social-media-voor-:suffix', destination: '/social-media', permanent: true },
+            { source: '/blog/administratie-stukadoor-automatiseren', destination: '/blog/stukadoorsbedrijf-automatiseren', permanent: true },
+            { source: '/blog/meer-klussen-met-ai', destination: '/blog/meer-google-reviews-als-stukadoor', permanent: true },
+            { source: '/blog/no-shows-stukadoor-voorkomen', destination: '/blog/no-shows-stukadoor-voorkomen-tips', permanent: true },
+            { source: '/blog/stukadoorsbedrijf-vinden-google', destination: '/blog/hoe-stukadoors-meer-klanten-vinden-via-google', permanent: true },
         ];
     },
 };
