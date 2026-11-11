@@ -69,4 +69,4 @@ De meeste klanten vragen twee tot vier offertes aan. Ze leggen ze naast elkaar e
 
 De beste stukadoors winnen opdrachten niet door de laagste prijs, maar door de duidelijkste offerte. Specificatie, materiaalvermelding, garantie en professionele presentatie doen meer dan €100 van je prijs af te halen.
 
-Wil je weten waar jouw stukadoorsbedrijf kansen laat liggen? Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer opdrachten binnenhaalt, met minder gedoe. Inclusief onze Groei-of-Geld-Terug Garantie.
+Wil je weten waar jouw stukadoorsbedrijf kansen laat liggen? Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer opdrachten binnenhaalt, met minder gedoe.

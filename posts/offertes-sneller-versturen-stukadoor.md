@@ -88,7 +88,7 @@ Bij een gemiddelde kluswaarde van €2.500 en 4 offerteverzoeken per week is het
 
 Stucwerk is vakmanschap — maar klussen winnen draait om snelheid en communicatie. De stukadoor die als eerste reageert met een professionele offerte, wint de klus. Elke keer weer.
 
-Met [StukadoorAI](/) automatiseer je je offerteproces van aanvraag tot opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [StukadoorAI](/) automatiseer je je offerteproces van aanvraag tot opvolging. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoeveel klussen je laat liggen.
 

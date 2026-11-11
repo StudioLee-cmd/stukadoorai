@@ -64,6 +64,6 @@ Stukadoors die structureel aan hun online reputatie werken, merken het verschil 
 
 Bij StukadoorAI helpen we stukadoors met het opbouwen van een sterke online reputatie. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Geen groei?
 
 Vraag een [gratis AI-scan](/gratis-scan) aan.

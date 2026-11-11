@@ -95,6 +95,6 @@ Je hoeft geen dure reclamebureau in te huren. Begin met de basis:
 
 Bij StukadoorAI helpen we stukadoors met het opbouwen van een professioneel merk dat online opvalt. Van je Google-profiel tot je social media — alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug. Het risico ligt 100% bij ons.
+Geen groei? Het risico ligt 100% bij ons.
 
 Vraag een [gratis AI-scan](/gratis-scan) aan en ontdek hoe jouw merk er online voor staat.

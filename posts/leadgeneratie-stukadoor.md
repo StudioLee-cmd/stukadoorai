@@ -75,8 +75,6 @@ De sterkste leadstrategie combineert beide werelden:
 
 Bij StudioLee nemen we de complete online leadgeneratie over. Van [Google optimalisatie](/blog/hoe-stukadoors-meer-klanten-vinden-via-google) tot content marketing — alles draait terwijl jij stuct. Met slechts **15 minuten per maand** aan jouw kant.
 
-De **Groei-of-Geld-Terug Garantie** maakt het risicovloos.
-
 [Vraag een gratis scan aan](/gratis-scan) en ontdek welke leadkanalen voor jou het best werken.
 
 ## Conclusie

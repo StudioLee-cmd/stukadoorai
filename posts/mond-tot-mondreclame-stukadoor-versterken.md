@@ -87,7 +87,7 @@ De drempel is zo laag dat klanten het ter plekke doen — voordat ze het vergete
 
 Mond-tot-mondreclame is niet dood — het is gedigitaliseerd. De stukadoor die zijn tevreden klanten makkelijk maakt om hem aan te bevelen — via WhatsApp, Google reviews en social media — bouwt een zelfversterkend systeem dat elke maand meer klanten oplevert.
 
-Met [StukadoorAI](/) automatiseren we je reviewverzoeken, klantcommunicatie en social media. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [StukadoorAI](/) automatiseren we je reviewverzoeken, klantcommunicatie en social media. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer klanten via aanbevelingen krijgt.
 

@@ -51,4 +51,4 @@ De investering? Een goede website en een chatbot kosten samen minder dan de omze
 
 ## Direct aan de slag
 
-Wil je weten hoe jouw website presteert en waar je aanvragen verliest? [Vraag een gratis scan aan](/gratis-scan) en ontdek het binnen twee minuten. Groei-of-Geld-Terug Garantie: als het niet werkt, betaal je niets.
+Wil je weten hoe jouw website presteert en waar je aanvragen verliest? [Vraag een gratis scan aan](/gratis-scan) en ontdek het binnen twee minuten.

@@ -83,6 +83,4 @@ Een realistisch 90-dagen-plan voor een stukadoor die wil specialiseren:
 
 Wij bouwen het automatisme rondom specialisatie-marketing voor stukadoors in onze managed service. Van website-herinrichting tot gerichte review-flow tot keyword-strategie: alles rondom jouw gekozen niche, zodat de focus door de automatisering heen wordt versterkt in plaats van verwaterd.
 
-## Groei-of-Geld-Terug Garantie
-
-Als na drie maanden de aanvragen voor jouw gekozen specialisatie niet meetbaar omhoog zijn én je marge-per-klus niet verbeterd, krijg je je investering terug. Wil je eerst zien welke richting voor jouw situatie het beste past, vraag een [gratis scan](/gratis-scan) aan en we kijken samen naar je markt, je klantengroep en je groeipotentieel. Jij stuct, wij regelen de rest.
+Wil je eerst zien welke richting voor jouw situatie het beste past, vraag een [gratis scan](/gratis-scan) aan en we kijken samen naar je markt, je klantengroep en je groeipotentieel. Jij stuct, wij regelen de rest.
