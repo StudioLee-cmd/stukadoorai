@@ -63,7 +63,7 @@ SEO bouwt een eigen klantenstroom op naast Werkspot. Na zes maanden consistent w
 
 Lokale SEO vereist consistentie: regelmatig content publiceren, je Google profiel bijhouden, reviews monitoren en reageren, [social media](/social-media) onderhouden. Met een managed service als [StudioLee](/tarieven) wordt dit allemaal voor je geregeld.
 
-De Groei-of-Geld-Terug Garantie: geen groei in vindbaarheid? Geld terug. Je investeert maar [15 minuten per maand](/gratis-scan) voor een update call.
+Je investeert maar [15 minuten per maand](/gratis-scan) voor een update call.
 
 ## Veelgestelde vragen
 

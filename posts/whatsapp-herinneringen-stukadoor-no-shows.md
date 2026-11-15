@@ -97,4 +97,4 @@ Drie startpaden, afhankelijk van je situatie:
 - **Team van 2-4 met eigen planner:** WhatsApp Business API + planner-tool die met je agenda koppelt. Berichten gaan automatisch, de planner reageert op antwoorden. Investering 50 tot 100 euro per maand.
 - **Bedrijf met meerdere ploegen:** managed service waarbij wij de complete bereikbaarheid (WhatsApp + Voice AI + chatbot + agenda + facturatie) voor je opzetten en draaiend houden. Vast bedrag per maand, alles klaar zonder dat jij zelf hoeft te bouwen.
 
-Voor de meeste stukadoors is optie 2 of 3 binnen één maand terugverdiend op alleen al de verminderde no-shows. Plan een [gratis scan van je agenda en bereikbaarheid](/gratis-scan) en we tonen exact wat jij verliest en wat een setup je oplevert. Werkt het niet, dan krijg je je geld terug binnen 90 dagen. Dat is de Groei-of-Geld-Terug Garantie.
+Voor de meeste stukadoors is optie 2 of 3 binnen één maand terugverdiend op alleen al de verminderde no-shows. Plan een [gratis scan van je agenda en bereikbaarheid](/gratis-scan) en we tonen exact wat jij verliest en wat een setup je oplevert.

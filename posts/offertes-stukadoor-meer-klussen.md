@@ -84,7 +84,7 @@ Lees ook hoe je je [stukadoorwebsite als aanvraagmachine](/blog/stukadoor-websit
 
 Als stukadoor is je tijd het meest waard op de bouwplaats, niet achter een laptop. Met een managed service besteed je slechts **15 minuten per maand** aan een kort gesprek. De rest — online vindbaarheid, reviews, social media — wordt voor je opgepakt.
 
-De Groei-of-Geld-Terug Garantie zorgt ervoor dat je geen risico loopt: geen groei? Geld terug. Het risico ligt 100% bij ons.
+Het risico ligt 100% bij ons.
 
 [Vraag een gratis scan aan](/gratis-scan) en ontdek hoe je meer offerte-aanvragen kunt binnenhalen.
 

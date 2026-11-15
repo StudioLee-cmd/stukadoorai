@@ -71,6 +71,6 @@ Stukadoors die vaste samenwerkingspartners hebben, hoeven zich minder zorgen te 
 
 Bij StukadoorAI helpen we stukadoors met het opzetten van slimme samenwerkingen en automatisering. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Geen groei?
 
 Vraag een [gratis AI-scan](/gratis-scan) aan.
