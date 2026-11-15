@@ -85,7 +85,3 @@ De volgorde die we adviseren voor stukadoors die nu willen beginnen:
 - Week 4: koppel website-formulieren en Facebook-berichten aan dezelfde centrale inbox
 
 Binnen een maand zie je je aanvragen-stroom verdubbelen terwijl je zelf minder tijd aan telefoon besteedt. Dat lijkt tegenstrijdig, maar komt omdat je geen verloren heen-en-weer belrondes meer hebt met klanten die al ergens anders hebben geboekt.
-
-## Groei-of-Geld-Terug Garantie
-
-Wij bouwen dit volledige opvangsysteem voor stukadoors in onze managed service. Als de telefonische aanvragen na drie maanden niet meetbaar gestegen zijn, krijg je je investering terug. Wil je eerst zien waar jouw lek zit, vraag een [gratis scan](/gratis-scan) aan of bekijk de [tarieven](/tarieven) voor het complete pakket. Jij stuct, wij regelen de rest.

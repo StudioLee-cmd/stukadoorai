@@ -80,6 +80,6 @@ Stukadoors die professioneel communiceren winnen meer offertes, krijgen minder k
 
 Bij StukadoorAI helpen we stukadoors met het professionaliseren van hun klantcommunicatie. Alles voor slechts 15 minuten per maand van jouw tijd.
 
-Met onze Groei-of-Geld-Terug Garantie loop je geen risico. Geen groei? Geld terug.
+Geen groei?
 
 Vraag een [gratis AI-scan](/gratis-scan) aan.

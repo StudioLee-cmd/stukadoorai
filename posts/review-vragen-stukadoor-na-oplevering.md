@@ -39,4 +39,4 @@ Vraag de klant of je een foto van het eindresultaat mag maken. Een review met ee
 
 Elke review is een verkoopargument dat 24/7 voor je werkt. Een stukadoor met 30 reviews wint het van een concurrent met 5. Begin bij je eerstvolgende oplevering.
 
-Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je online reputatie er nu voor staat? Vraag een [gratis scan](/gratis-scan) aan.

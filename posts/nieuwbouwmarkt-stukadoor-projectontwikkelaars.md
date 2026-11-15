@@ -54,7 +54,7 @@ De eerste opdracht is je examen. Lever precies wat je belooft.
 
 De nieuwbouwmarkt biedt stukadoors de kans om te groeien naar voorspelbare, langlopende projecten. De sleutel is professionalisering.
 
-Met [StukadoorAI](/) helpen we stukadoors bij hun online presentatie en klantwerving. Onze managed service kost slechts 15 minuten van je tijd per maand. En met onze Groei-of-Geld-Terug Garantie loop je geen enkel risico.
+Met [StukadoorAI](/) helpen we stukadoors bij hun online presentatie en klantwerving. Onze managed service kost slechts 15 minuten van je tijd per maand.
 
 Vraag een [gratis scan](/gratis-scan) aan en ontdek hoe je meer opdrachten binnenhaalt.
 

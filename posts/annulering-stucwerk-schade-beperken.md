@@ -77,4 +77,4 @@ Niet boos reageren. Niet dreigen. Klanten die goed behandeld worden bij een annu
 
 Annuleringen horen erbij, maar ze hoeven je bedrijf niet te ontwrichten. Met schriftelijke bevestigingen, aanbetalingen en tussentijds contact breng je het aantal annuleringen terug tot een minimum. De klanten die overblijven zijn serieuzer, betrouwbaarder en aangenamer om mee te werken.
 
-Wil je weten hoe je je hele proces van offerte tot oplevering kunt stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je werkwijze en concrete verbeterpunten. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je weten hoe je je hele proces van offerte tot oplevering kunt stroomlijnen? Vraag een [gratis scan](/gratis-scan) aan. Je krijgt inzicht in je werkwijze en concrete verbeterpunten.

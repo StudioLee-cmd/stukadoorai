@@ -55,4 +55,4 @@ Bij twee no-shows per maand: 490 tot 690 euro. Per jaar: bijna 7.000 euro. Dat i
 
 Houd een maand bij wat elke no-show je kost. Noteer per geval: reiskilometers, verbruikt materiaal, verloren uren. Na een maand weet je precies hoeveel het je kost en kun je gericht actie ondernemen.
 
-Wil je een compleet overzicht van je bedrijfsefficiency? Vraag een [gratis scan](/gratis-scan) aan. Zonder kosten, zonder verplichtingen, en met Groei-of-Geld-Terug Garantie.
+Wil je een compleet overzicht van je bedrijfsefficiency? Vraag een [gratis scan](/gratis-scan) aan.
